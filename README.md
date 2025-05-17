@@ -1,21 +1,30 @@
 # Hey, I'm Jason 👋
 
-I'm a programmer, builder, and longtime CNC machinist exploring the world of software, Linux, and secure systems. I come from a background in high-precision tooling, but these days you'll find me in the terminal — writing scripts, learning C, hardening servers, and breaking things to understand them better.
+I'm a programmer, builder, and longtime CNC machinist exploring the world of Linux, automation, and self-hosted systems.
 
-## 🚀 Projects & Tools
+I’ve spent years writing logic-driven code for machines — now I’m bringing that same mindset to scripting, system security, and backend development. I write clean code, build resilient systems, and break things on purpose so I can learn how they really work.
 
-🔧 **[rsync-usb-backup](https://github.com/jasonevensen/rsync-usb-backup)** – A work-in-progress Bash script that mounts an encrypted USB drive and runs a secure, incremental rsync backup.  
-🛠️ **Home Server Build** – Hardened Gentoo server with encrypted storage, self-hosted apps, and YubiKey SSH.  
-📓 **[Packets & Code](https://packetsandcode.com)** – My blog/lab notebook documenting experiments in Linux, scripting, self-hosting, and full-stack development.
+---
 
-## 🔐 Stack & Interests
+## Current Focus
 
-- Gentoo Linux (Hardened) • Bash • Python • C (learning)
-- Hugo • HTML/CSS/JS • Self-hosting • Cybersecurity
-- Vim • OpenRC • LUKS • YubiKey • WireGuard
+- Building a hardened Gentoo-based home server
+- Writing Bash scripts to automate my workflow
+- Exploring system-level programming in C
+- Self-hosting tools like Vaultwarden, Jellyfin, and WireGuard
+- Documenting everything over at [Packets & Code](https://packetsandcode.com)
 
-## 📫 Contact
+---
 
-- 📧 jevensen [at] protonmail [dot] com  
-- 🔗 [jasonevensen.com](https://jasonevensen.com)
+## Featured Project
 
+### [`rsync-usb-backup`](https://github.com/jasonevensen/rsync-usb-backup)
+
+> A Bash script that backs up multiple folders to a USB drive using `rsync`, a config file, and timestamped logs. Built to be simple, reliable, and easy to modify.
+
+---
+
+## Elsewhere
+
+- 🌐 [jasonevensen.com](https://jasonevensen.com) — personal site & portfolio
+- 📝 [packetsandcode.com](https://packetsandcode.com) — technical blog & learning lab
