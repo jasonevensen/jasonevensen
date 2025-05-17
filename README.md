@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Jason 👋
 
-<!--
-**jasonevensen/jasonevensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer, builder, and longtime CNC machinist exploring the world of software, Linux, and secure systems. I come from a background in high-precision tooling, but these days you'll find me in the terminal — writing scripts, learning C, hardening servers, and breaking things to understand them better.
 
-Here are some ideas to get you started:
+## 🚀 Projects & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **[rsync-usb-backup](https://github.com/jasonevensen/rsync-usb-backup)** – A work-in-progress Bash script that mounts an encrypted USB drive and runs a secure, incremental rsync backup.  
+🛠️ **Home Server Build** – Hardened Gentoo server with encrypted storage, self-hosted apps, and YubiKey SSH.  
+📓 **[Packets & Code](https://packetsandcode.com)** – My blog/lab notebook documenting experiments in Linux, scripting, self-hosting, and full-stack development.
+
+## 🔐 Stack & Interests
+
+- Gentoo Linux (Hardened) • Bash • Python • C (learning)
+- Hugo • HTML/CSS/JS • Self-hosting • Cybersecurity
+- Vim • OpenRC • LUKS • YubiKey • WireGuard
+
+## 📫 Contact
+
+- 📧 jevensen [at] protonmail [dot] com  
+- 🔗 [jasonevensen.com](https://jasonevensen.com)
+
